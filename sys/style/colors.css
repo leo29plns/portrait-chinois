@@ -1,0 +1,30 @@
+/* ##### DEFINITION DES COULEURS ##### */
+
+body {
+	--white: 255, 255, 255;
+	--black: 35, 42, 53;
+
+	--grey1: 158, 166, 175;
+	--grey2: 97, 117, 148;
+
+	--trypan: 52, 14, 179;
+	--lavender: 210, 204, 233;
+
+	--fuzzy: 255, 96, 103;
+	--pastel: 242, 211, 213;
+
+	--itsOkay: 20, 207, 157;
+	--indigoBlue: 0, 96, 255;
+
+	--themeColor: rgb(var(--white));
+}
+
+/*
+Dark mode abandonné, faute de temps.
+
+@media (prefers-color-scheme: dark) {
+	body {
+		--white: 35, 42, 53;
+		--black: 255, 255, 255;
+	}
+} */
