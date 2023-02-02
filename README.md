@@ -1,11 +1,11 @@
 ﻿# Mon Portrait Chinois - Léo Planus
 
 ## Lien du site
-[https://etudiant.u-pem.fr/~leo.planus/portrait-chinois/index.html](https://etudiant.u-pem.fr/~leo.planus/portrait-chinois/index.html)
+[https://leo29plns.github.io/portrait-chinois/](https://leo29plns.github.io/portrait-chinois/)
 
 ## Installation sur un serveur local
 
-Pas d'instruction particulière, déposez à la racine de votre serveur web l'ensemble des fichiers et dossiers contenus dans cette archive.
+Pas d'instruction particulière, déposez à la racine de votre serveur web l'ensemble des fichiers et dossiers contenus dans ce repo.
 
 ## Autres informations
 
